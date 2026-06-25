@@ -26,7 +26,7 @@ In early 2026, I completed an intensive 3-month bootcamp in Data Science and Dat
 | 3     | [Walmart Sales](https://github.com/YoannRobert/rncp-ml-engineer/blob/main/bloc3/Walmart_Sales) — weekly revenue prediction                                  | Supervised ML (regression)     | scikit-learn · pandas · Plotly                     |
 | 4     | [AT&T Spam Detector](https://github.com/YoannRobert/rncp-ml-engineer/blob/main/bloc4/ATT_Spam_Detector) — SMS spam vs ham classification                    | Deep learning (NLP)            | PyTorch · Hugging Face Transformers · tiktoken     |
 | 5     | [Getaround Analysis](https://github.com/YoannRobert/rncp-ml-engineer/blob/main/bloc5/Getaround_Analysis) — rental threshold & daily-price prediction        | ML industrialization (MLOps)   | FastAPI · MLflow · Docker · Hugging Face Spaces    |
-| 6     | [RTE Project](https://github.com/YoannRobert/DDay_FullStack) — electricity consumption forecasting in France                                              | Data project management        | Prophet · AWS S3 · AWS EC2 · Streamlit             |
+| 6     | [RTE Project](https://github.com/YoannRobert/prevision-electricite-france) — electricity consumption forecasting in France                                              | Data project management        | Prophet · AWS S3 · AWS EC2 · Streamlit             |
 
 ## Tech Stack
 
